@@ -1,0 +1,7 @@
+__pycache__
+.vscode
+.DS_Store
+polygeohasher.egg-info/
+tests/
+build/
+dist/
